@@ -1,7 +1,11 @@
-{
+
+[{
+
   "order_id": "ABC123456788",
 "total_amount": 200,
 "order_placed": "12/02/2020",
+
+
   "products": [
     {
       "product_id": 1,
@@ -17,3 +21,4 @@
     }
   ]
 }
+]
